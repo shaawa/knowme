@@ -17,3 +17,11 @@ h2 {
 	color: brown;
 	
 }
+
+p {
+	display: block;
+	margin-block-start: 1em;
+	font-weight: 400;
+	font-family: georgia,cambria,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	
+}
